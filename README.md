@@ -2,7 +2,7 @@
 This is a spell-checking plugin build for Microsoft Word using C#. It detects spelling errors in real-time while typing helping users dentify and correct mistakes in their Nepali documents based on the suggested words. This plugin utilizes API service provided by "hijje.com". It also supports spell-checking within tables, shapes/diagrams, headers and footers.
 
 ### Output:
-![suggestions](assets/utf.png)
+![suggestions](asset/utf.png)
 
 ### Implementation
 
