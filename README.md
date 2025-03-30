@@ -158,5 +158,5 @@ It utilizes local cache to avoid redundant remote calls.
         }
 ```
 
-It supports both TrueType fonts (TTF), such as Preeti, Kantipur, PCS Nepali, Himal, and Aalekh, as well as Unicode fonts.
+It supports both TrueType fonts (TTF), such as Preeti, Kantipur, PCS Nepali, Himal, and Aalekh, as well as Unicode fonts. Finally if you like to go deeper in the spell-checking system, you can read this paper. ![spell-checking paper](asset/spell-paper.pdf)
 
