@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WordNepaliSpellCheck" GeneratedClassName="SpellSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="remoteURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8085/spellSuggestion?query=</Value>
+    </Setting>
+    <Setting Name="serviceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SpellingService</Value>
+    </Setting>
+    <Setting Name="serviceRenewURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://103.198.9.169/#/user/purchaseMsWordPlugin</Value>
+    </Setting>
+    <Setting Name="servicePaymentURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://103.198.9.169/#/user/registerMsWordPlugin</Value>
+    </Setting>
+    <Setting Name="userSuggestionURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://103.198.9.169/saayak-web-interface/mutation</Value>
+    </Setting>
+    <Setting Name="pingURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:8085/spellSuggestion?query=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
